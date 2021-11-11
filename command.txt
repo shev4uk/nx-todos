@@ -1,0 +1,4 @@
+nx serve todos    фронт
+npx nx serve api  бек
+npx nx dep-graph  граф залежностей
+npx ng run ui:storybook 
